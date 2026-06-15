@@ -1,5 +1,8 @@
-👋 Hi, I’m Pavan Kumar
- I’m pursuing my engineering degree at Alva's Institute of Engineering and Technology.Passionate about Cybersecurity, Networking Security, and Cloud Security. Always eager to learn, explore new technologies, and contribute to impactful projects. Open to collaboration on security-related projects and research.
-
-📫 Reach me at: pavankumar797524@gmail.com
-🔗 Connect with me on LinkedIn: linkedin.com/in/pavankumar022
+Hi, I'm Pavan Kumar, a Cybersecurity and IoT Engineering student
+My primary interests are in Security Operations (SOC), Threat Detection, Incident Response, Network Security, Cloud Security, and Governance, Risk & Compliance (GRC). I enjoy building hands-on cybersecurity projects that simulate real-world attack and defense scenarios.
+Technical Skills 
+Wazuh • Splunk • Wireshark • Nmap • Kali Linux • Linux Administration • Python • Network Security • MITRE ATT&CK • GRC • Risk Assessment • Incident Response
+I am actively seeking opportunities to learn, collaborate, and contribute to cybersecurity projects, research initiatives, and SOC-focused roles.
+📧 Email: pavankumar797524@gmail.com
+🔗 LinkedIn: linkedin.com/in/pavankumar022
+💻 GitHub: github.com/pavankumar022
