@@ -41,20 +41,11 @@ A live 3D WebGL threat globe visualizing real-time attacker geolocation, with AI
 
 **SIEM & Blue Team Tools**
 
-<img src="https://skillicons.dev/icons?i=kali" height="48"/>
-<img src="https://img.shields.io/badge/-%20-000000?style=flat-square&logo=splunk&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/-%20-1679A7?style=flat-square&logo=wireshark&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/-%20-005571?style=flat-square&logo=elastic&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/-%20-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/-WAZUH-005571?style=flat-square" height="48"/>
-<img src="https://img.shields.io/badge/-NMAP-black?style=flat-square" height="48"/>
+<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge" /> <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-4B0082?style=for-the-badge" /> <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" /> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 
 **Networking & Security**
 
-<img src="https://img.shields.io/badge/-TCP%2FIP-4B8BBE?style=flat-square" height="48"/>
-<img src="https://img.shields.io/badge/-IPTABLES-8A2BE2?style=flat-square" height="48"/>
-<img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-C8102E?style=flat-square" height="48"/>
-<img src="https://img.shields.io/badge/-IDS%2FIPS-orange?style=flat-square" height="48"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-4B8BBE?style=for-the-badge" /> <img src="https://img.shields.io/badge/iptables-8A2BE2?style=for-the-badge" /> <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=for-the-badge" /> <img src="https://img.shields.io/badge/IDS%2FIPS-FF8C00?style=for-the-badge" />
 
 **Scripting & Systems**
 
