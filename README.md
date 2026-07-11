@@ -53,11 +53,11 @@ A live 3D WebGL threat globe visualizing real-time attacker geolocation, with AI
 
 **Scripting & Systems**
 
-<img src="https://skillicons.dev/icons?i=py,bash,linux,windows" height="48"/>
+<img src="https://skillicons.dev/icons?i=py,bash,linux,ubuntu,windows" height="48"/>
 
 **Software Engineering & Cloud**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,aws,gcp,azure,bash,fastapi,react" height="48"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,aws,gcp,azure,fastapi,react" height="48"/>
 
 <br/>
 
