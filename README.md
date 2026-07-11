@@ -5,7 +5,9 @@
 <a href="mailto:pavankumar797524@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/pavankumar022"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/pavankumar022"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=pavankumar022&style=flat-square&color=blueviolet&label=Profile+views" />
+<a href="https://tryhackme.com/p/pavankumar022"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red" /></a>
+<a href="https://app.hackthebox.com/profile/pavankumar022"><img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" /></a>
+<a href="https://app.letsdefend.io/user/pavankumar022"><img src="https://img.shields.io/badge/-Let's%20Defend-1E90FF?style=flat-square" /></a>
 
 <br/>
 
