@@ -47,6 +47,10 @@ A live 3D WebGL threat globe visualizing real-time attacker geolocation, with AI
 
 <img src="https://img.shields.io/badge/TCP%2FIP-4B8BBE?style=for-the-badge" /> <img src="https://img.shields.io/badge/iptables-8A2BE2?style=for-the-badge" /> <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=for-the-badge" /> <img src="https://img.shields.io/badge/IDS%2FIPS-FF8C00?style=for-the-badge" />
 
+**Frameworks**
+
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=for-the-badge" /> <img src="https://img.shields.io/badge/NIST-1B3A57?style=for-the-badge" /> <img src="https://img.shields.io/badge/ISO%2027001-2E8B57?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cyber%20Kill%20Chain-8B0000?style=for-the-badge" />
+
 **Scripting & Systems**
 
 <img src="https://skillicons.dev/icons?i=py,bash,linux,windows" height="48"/>
